@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1665839000 source:c:\users\msi\documents\project\main.cpp
+
+1665841354 c:\users\msi\documents\project\stack.h
+
+1667336606 source:c:\users\msi\documents\project\main2.c
+	<stdio.h>
+	"Lists.h"
+
+1665841489 c:\users\msi\documents\project\stack.c
+	"stack.h"
+
+1666694351 c:\users\msi\documents\project\queueadt.h
+
+1666694286 c:\users\msi\documents\project\queueadt.c
+	"QueueADT.h"
+
+1667336683 source:c:\users\msi\documents\project\lists.c
+	"Lists.h"
+	<stdio.h>
+
+1667242605 c:\users\msi\documents\project\lists.h
+

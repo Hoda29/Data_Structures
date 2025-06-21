@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1668017109 source:c:\users\msi\documents\ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lists.h"
+
+1668017227 c:\users\msi\documents\ds\lists.h
+
+1668017087 c:\users\msi\documents\ds\lists.c
+	"lists.h"
+	<stdio.h>
+
+1668017558 source:c:\users\msi\documents\ds\lists.c
+	"lists.h"
+	<stdio.h>
+
